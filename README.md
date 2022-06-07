@@ -1,4 +1,4 @@
-# nlw_feedback_widget_web
+# Feedback Widget - WEB
 Projeto desenvolvido na NLW Return.
 
 Aplicação feita com React + Sass e Tailwind CSS
